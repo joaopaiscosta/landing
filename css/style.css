@@ -1,0 +1,47 @@
+@import url("components/banner-pic.css");
+@import url("components/banner-plain.css");
+@import url("components/btn-color.css");
+@import url("components/avatar.css");
+@import url("components/container.css");
+@import url("components/card.css");
+
+
+body{
+	font-size: 18px;
+	margin:0px;
+	text-align: center;
+	background-color: #f6f1de;
+	color: midnightblue;
+	font-family: 'Raleway', sans-serif;
+	font-weight: bold;
+}
+h1{
+	color: #ce923c;
+	font-family: 'Quicksand', sans-serif;
+}
+h2{
+	color: #ce923c;
+	font-family: 'Raleway', sans-serif;
+}
+h3{
+	color: #ce923c;
+	font-family: 'Inconsolata', monospace;
+}
+a{
+	text-decoration: none;
+}
+.list-inline{
+	list-style: none;
+	padding-left: 0px;
+}
+.list-inline li{
+	display: inline;
+	padding: 15px;
+}
+.list-inline i{
+	font-size: 45px;
+	color: #f6f1de;
+}
+.list-inline i:hover{
+	color: #ce923c;
+}

@@ -1,0 +1,58 @@
+.container-medium{
+	width: 950px;
+	margin: 30px auto;
+}
+@media (max-width: 960px) {
+	.container-medium {
+    width: 700px;
+  }
+}
+@media (max-width: 720px) {
+	.container-medium {
+    width: 500px;
+  }
+}
+@media (max-width: 540px) {
+	.container-medium {
+    width: 300px;
+  }
+}
+.container-large{
+	width: 950px;
+	margin: 0px auto;
+}
+@media (max-width: 960px) {
+	.container-large {
+    width: 710px;
+  }
+}
+@media (max-width: 720px) {
+	.container-large {
+    width: 350px;
+  }
+}
+@media (max-width: 540px) {
+	.container-large {
+    width: 250px;
+  }
+}
+.container-small{
+	width: 650px;
+	margin: 30px auto;
+
+}
+@media (max-width: 960px) {
+	.container-small {
+    width: 600px;
+  }
+}
+@media (max-width: 720px) {
+	.container-small {
+    width: 450px;
+  }
+}
+@media (max-width: 540px) {
+	.container-small {
+    width: 300px;
+  }
+}

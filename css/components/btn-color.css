@@ -1,0 +1,19 @@
+.btn-color{
+	background-color: #f6f1de;
+	color: #ce923c;
+	font-family: 'Quicksand', sans-serif;
+	font-weight: bold;
+	font-size: 15px;
+	padding: 5px 15px;
+	border-radius: 3px;
+	border-color: #ddd9c8;
+	border-style: solid;
+	border-width: 0px 1px 1.5px 0.5px;
+	transition: color 0.2s ease;
+}
+.btn-color:hover{
+	background-color: #ce923c;
+	color: #f6f1de;
+	border-color: #b98336;
+	border-style: solid;
+	border-width: 0px 1px 1.5px 0.5px;

@@ -1,0 +1,19 @@
+.banner-plain {
+	background-color: midnightblue;
+	color: white;
+	margin: 0px;
+	padding: 30px 20px;
+}
+.banner-plain h2{
+	font-family: 'Inconsolata', monospace;
+	font-size: 18px;
+}
+.banner-plain h3{
+	font-family: 'Inconsolata', monospace;
+	font-size: 20px;
+}
+.banner-plain p{
+	font-family: 'Raleway', sans-serif;
+	font-size: 14px;
+	font-weight: normal;
+}
